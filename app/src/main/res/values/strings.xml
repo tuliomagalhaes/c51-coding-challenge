@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Checkout51Challenge</string>
+    <string name="no_offers_found">No Offers were found!</string>
+    <string name="error_while_loading_offers">Error while loading offers!</string>
+    <string name="cash_back_value">%1$s Cash Back</string>
+    <string name="sort_by">Sort by:</string>
+    <string name="name">Name</string>
+    <string name="cash_back">Cash Back</string>
+</resources>
